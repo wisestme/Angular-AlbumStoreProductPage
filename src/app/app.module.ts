@@ -27,7 +27,7 @@ const appRoutes: Routes = [
 
   {
     path: '',
-    rediirectTo: 'products',
+    redirectTo: 'products',
     pathMatch: 'full'
   }
 ];
